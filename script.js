@@ -67,7 +67,7 @@ const testimonialsData = [
         name: "Syed Gohar Ali Jaffri",
         role: "CEO at TechStart",
         text: "Mohammad delivered an exceptional e-commerce platform that exceeded our expectations. His attention to detail and technical expertise made the entire process smooth and efficient.",
-        avatar: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop&crop=face"
+        avatar: "Images/Gohar Ali Jafri.jpeg"
     },
     {
         id: 2,
