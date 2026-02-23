@@ -78,7 +78,7 @@ const testimonialsData = [
     },
     {
         id: 3,
-        name: "Ruhab Zafar",
+        name: "Arham Hemani",
         role: "Founder of DesignHub",
         text: "The design system Mohammad created for us has revolutionized our development workflow. It's intuitive, scalable, and beautifully crafted. Highly recommended!",
         avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face"
